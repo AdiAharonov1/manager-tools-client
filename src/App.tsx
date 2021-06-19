@@ -35,13 +35,13 @@ if (tokenRes.data) {
 
   return (
     <>
-    <UserContext.Provider value={{userData, setUserData}}>
+    {/* <UserContext.Provider value={{userData, setUserData}}> */}
 
       <Switch>
-      <Route exact component={Home} path="/" />
+      {/* <Route exact component={Home} path="/" /> */}
       <Route exact component={NewProject} path="/newproject" />
       </Switch>
-    </UserContext.Provider>
+    {/* </UserContext.Provider> */}
     </>
   );
 }
