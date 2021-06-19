@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/manager-tools-client/static/css/main.399a400f.chunk.css",
-    "main.js": "/manager-tools-client/static/js/main.aa846166.chunk.js",
-    "main.js.map": "/manager-tools-client/static/js/main.aa846166.chunk.js.map",
+    "main.js": "/manager-tools-client/static/js/main.bba069c8.chunk.js",
+    "main.js.map": "/manager-tools-client/static/js/main.bba069c8.chunk.js.map",
     "runtime-main.js": "/manager-tools-client/static/js/runtime-main.5bb3d8c7.js",
     "runtime-main.js.map": "/manager-tools-client/static/js/runtime-main.5bb3d8c7.js.map",
     "static/js/2.67856d0d.chunk.js": "/manager-tools-client/static/js/2.67856d0d.chunk.js",
     "static/js/2.67856d0d.chunk.js.map": "/manager-tools-client/static/js/2.67856d0d.chunk.js.map",
     "index.html": "/manager-tools-client/index.html",
-    "precache-manifest.df4e28987706cab4de02ee26517f9fbf.js": "/manager-tools-client/precache-manifest.df4e28987706cab4de02ee26517f9fbf.js",
+    "precache-manifest.4e4b99ba470a01a0a70eadb37ff059cc.js": "/manager-tools-client/precache-manifest.4e4b99ba470a01a0a70eadb37ff059cc.js",
     "service-worker.js": "/manager-tools-client/service-worker.js",
     "static/css/main.399a400f.chunk.css.map": "/manager-tools-client/static/css/main.399a400f.chunk.css.map",
     "static/js/2.67856d0d.chunk.js.LICENSE.txt": "/manager-tools-client/static/js/2.67856d0d.chunk.js.LICENSE.txt",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.5bb3d8c7.js",
     "static/js/2.67856d0d.chunk.js",
     "static/css/main.399a400f.chunk.css",
-    "static/js/main.aa846166.chunk.js"
+    "static/js/main.bba069c8.chunk.js"
   ]
 }
