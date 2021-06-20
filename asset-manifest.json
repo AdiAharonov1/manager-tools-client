@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/manager-tools-client/static/css/main.399a400f.chunk.css",
-    "main.js": "/manager-tools-client/static/js/main.bba069c8.chunk.js",
-    "main.js.map": "/manager-tools-client/static/js/main.bba069c8.chunk.js.map",
-    "runtime-main.js": "/manager-tools-client/static/js/runtime-main.5bb3d8c7.js",
-    "runtime-main.js.map": "/manager-tools-client/static/js/runtime-main.5bb3d8c7.js.map",
-    "static/js/2.67856d0d.chunk.js": "/manager-tools-client/static/js/2.67856d0d.chunk.js",
-    "static/js/2.67856d0d.chunk.js.map": "/manager-tools-client/static/js/2.67856d0d.chunk.js.map",
+    "main.js": "/manager-tools-client/static/js/main.99ddcdd9.chunk.js",
+    "main.js.map": "/manager-tools-client/static/js/main.99ddcdd9.chunk.js.map",
+    "runtime-main.js": "/manager-tools-client/static/js/runtime-main.0995dbb1.js",
+    "runtime-main.js.map": "/manager-tools-client/static/js/runtime-main.0995dbb1.js.map",
+    "static/js/2.013d3739.chunk.js": "/manager-tools-client/static/js/2.013d3739.chunk.js",
+    "static/js/2.013d3739.chunk.js.map": "/manager-tools-client/static/js/2.013d3739.chunk.js.map",
     "index.html": "/manager-tools-client/index.html",
-    "precache-manifest.4e4b99ba470a01a0a70eadb37ff059cc.js": "/manager-tools-client/precache-manifest.4e4b99ba470a01a0a70eadb37ff059cc.js",
+    "precache-manifest.5c47e72e7c499b11ef309387855b99ba.js": "/manager-tools-client/precache-manifest.5c47e72e7c499b11ef309387855b99ba.js",
     "service-worker.js": "/manager-tools-client/service-worker.js",
     "static/css/main.399a400f.chunk.css.map": "/manager-tools-client/static/css/main.399a400f.chunk.css.map",
-    "static/js/2.67856d0d.chunk.js.LICENSE.txt": "/manager-tools-client/static/js/2.67856d0d.chunk.js.LICENSE.txt",
+    "static/js/2.013d3739.chunk.js.LICENSE.txt": "/manager-tools-client/static/js/2.013d3739.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/manager-tools-client/static/media/landing-page.90811d5b.png",
     "static/media/add-layer.36b10863.svg": "/manager-tools-client/static/media/add-layer.36b10863.svg",
     "static/media/export-image.0338decb.svg": "/manager-tools-client/static/media/export-image.0338decb.svg",
@@ -32,9 +32,9 @@
     "static/media/upload-background-image.94c15670.svg": "/manager-tools-client/static/media/upload-background-image.94c15670.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5bb3d8c7.js",
-    "static/js/2.67856d0d.chunk.js",
+    "static/js/runtime-main.0995dbb1.js",
+    "static/js/2.013d3739.chunk.js",
     "static/css/main.399a400f.chunk.css",
-    "static/js/main.bba069c8.chunk.js"
+    "static/js/main.99ddcdd9.chunk.js"
   ]
 }
