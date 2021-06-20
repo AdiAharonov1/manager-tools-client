@@ -1,6 +1,6 @@
 {
   "homepage": "https://adiaharonov1.github.io/manager-tools-client/",
-  "name": "manager-tools",
+  "name": "manager-tools-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
